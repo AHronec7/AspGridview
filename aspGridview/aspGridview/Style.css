@@ -1,0 +1,49 @@
+﻿.mainform {
+            background-color:tan;
+}
+
+
+.position{
+           margin-bottom: 15px;
+           margin-left: 10px;
+           margin-right: 40px;
+           margin-top: 15px;
+}
+
+
+.address{
+            margin-bottom: 15px;
+            margin-left: 20px;
+            margin-right:40px;
+            margin-top: 15px;
+}
+
+.Pnumber {
+            margin-bottom: 15px;
+            margin-left: 30px;
+            margin-right: 40px;
+            margin-top:15px;
+            
+
+}
+
+
+.State {
+         margin-bottom: 25px;
+         margin-left: 10px;
+         margin-right: 40px;
+         margin-top: 30px;
+}
+
+
+.email {
+    margin-bottom: 15px;
+    margin-left: 20px;
+    margin-right: 40px;
+    margin-top: 15px;
+}      
+
+
+.btncolor {
+            color: blue;
+}

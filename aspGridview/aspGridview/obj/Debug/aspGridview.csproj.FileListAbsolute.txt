@@ -1,0 +1,9 @@
+C:\Users\MTCStudent\Documents\ASP and C# programming practices\AspGridview\aspGridview\aspGridview\bin\aspGridview.dll.config
+C:\Users\MTCStudent\Documents\ASP and C# programming practices\AspGridview\aspGridview\aspGridview\bin\aspGridview.dll
+C:\Users\MTCStudent\Documents\ASP and C# programming practices\AspGridview\aspGridview\aspGridview\bin\aspGridview.pdb
+C:\Users\MTCStudent\Documents\ASP and C# programming practices\AspGridview\aspGridview\aspGridview\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MTCStudent\Documents\ASP and C# programming practices\AspGridview\aspGridview\aspGridview\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MTCStudent\Documents\ASP and C# programming practices\AspGridview\aspGridview\aspGridview\obj\Debug\aspGridview.csprojResolveAssemblyReference.cache
+C:\Users\MTCStudent\Documents\ASP and C# programming practices\AspGridview\aspGridview\aspGridview\obj\Debug\aspGridview.csproj.CoreCompileInputs.cache
+C:\Users\MTCStudent\Documents\ASP and C# programming practices\AspGridview\aspGridview\aspGridview\obj\Debug\aspGridview.dll
+C:\Users\MTCStudent\Documents\ASP and C# programming practices\AspGridview\aspGridview\aspGridview\obj\Debug\aspGridview.pdb
